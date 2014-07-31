@@ -9,3 +9,13 @@ After forking this repository, you can make some changes to the project, and sub
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
 This is my experiment. Thanky you :) 
+
+My next experiment is:
+- [ ] make a develop branch
+- [ ] make chances to the develop branch
+- [ ] add a feature branch
+- [ ] make changes to the feature branch
+- [ ] merge the feature brach into the develop branch
+- [ ] merge the develop branch into the master branch, with a release number tag.
+
+Sounds simple? not to me ;) 
